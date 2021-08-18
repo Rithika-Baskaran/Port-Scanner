@@ -1,4 +1,4 @@
-# Multithreaded Port Scanner
+# Multithreaded Port Scanner in python
 
 from queue import Queue
 import socket
